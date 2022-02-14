@@ -1,4 +1,4 @@
-# [SHS Games](https://shsgames.github.io/)
+# [Ace Games](https://AceGames.github.io/)
 Collectively building an online game hub for the brave!
 
 ### Developer Checks
@@ -6,7 +6,7 @@ Collectively building an online game hub for the brave!
 
 ---
 ## About
-SHS Games is a free and open source hub for games. Designed to be unblocked and available for everyone anytime.
+Ace Games is a free and open source hub for games. Designed to be unblocked and available for everyone anytime, Forked from SHSGames, all credit for code goes to SHS Games
 
 [License](./LICENSE.md) • [Privacy Statement](./PRIVACY.md)
 
@@ -28,7 +28,7 @@ SHS Games is a free and open source hub for games. Designed to be unblocked and 
 
 ---
 ## Join the rebellion
-SHS Games can be easily spun up in many different environments. Clicking the buttons below will spin up a new site running SHS Games. And if you know what your doing, here are some detailed [Build instructions](https://github.com/SHSGames/shsgames.github.io/blob/master/BUILDING.md) you can also [download the HTML](https://github.com/SHSGames/shsgames.github.io/archive/refs/heads/public_html.zip) for your own web server, or even just a [Docker container](https://hub.docker.com/r/shsgames/shsgames). When you create a mirror, I'll add it to the list above for everyones benifit.
+Ace Games can be easily spun up in many different environments. Clicking the buttons below will spin up a new site running SHS Games. And if you know what your doing, here are some detailed [Build instructions](https://github.com/SHSGames/shsgames.github.io/blob/master/BUILDING.md) you can also [download the HTML](https://github.com/AceGames/AceGames.github.io/archive/refs/heads/public_html.zip) for your own web server, or even just a [Docker container](https://hub.docker.com/r/shsgames/shsgames). When you create a mirror, I'll add it to the list above for everyones benifit.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SHSGames/shsgames.github.io)
