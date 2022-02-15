@@ -638,7 +638,7 @@ export default <Game[]>[
 		thumbnail: "https://cdn.jsdelivr.net/gh/JoshMerlino/shsg-pfile/thumbs/henry-stickmin---stealing-the-diamond.jpg",
 		width: 800,
 		aspectRatio: 4/3
-	}, { name: "Impossible Quiz",
+	}, { name: "Impossible Quiz-Opie's favorite",
 		runner: "RUFFLE",
 		game: "https://cdn.jsdelivr.net/gh/JoshMerlino/shsg-pfile/games/impossible-quiz.swf",
 		thumbnail: "https://cdn.jsdelivr.net/gh/JoshMerlino/shsg-pfile/thumbs/impossible-quiz.jpg",
