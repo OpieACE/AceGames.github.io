@@ -33,7 +33,7 @@ export default function Component(): JSX.Element {
 					<Col xl={4}>
 						<Link to={`/${location.search}`}>
 							<div className="title">
-								<h3>{ appmanifest.name }</h3>
+								<h3>{AceGames}</h3>
 							</div>
 						</Link>
 						<MoTD/>
@@ -60,7 +60,7 @@ export default function Component(): JSX.Element {
 			<FooterCopyright>
 				<div style={{ paddingLeft: 8 }}>
 					<div style={{ display: "inline-flex", alignItems: "start", flexDirection: "column" }}>
-						<span>Copyright © 2019-{(new Date).getFullYear()} • All Rights Reserved</span>
+						<span>Copyright © 2022-{(new Date).getFullYear()} • All Rights Reserved</span>
 						<div>
 							<a href="//joshmerlino.github.io" className="link">Josh Merlino</a> • <a href="//th3skeleton.github.io/pshel/" className="link">Parker Sheldon</a>  • And our amazing <a href="//github.com/SHSGames/shsgames.github.io/graphs/contributors" target="_blank">Contributors</a>
 						</div>
