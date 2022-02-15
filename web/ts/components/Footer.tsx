@@ -33,7 +33,7 @@ export default function Component(): JSX.Element {
 					<Col xl={4}>
 						<Link to={`/${location.search}`}>
 							<div className="title">
-								<h3>{ AceGames.name }</h3>
+								<h3>{ appmanifest.name }</h3>
 							</div>
 						</Link>
 						<MoTD/>
@@ -46,7 +46,7 @@ export default function Component(): JSX.Element {
 						</ul>
 					</Col>
 					<Col xl={4}>
-						<a href="//github.com/SHSGames/shsgames.github.io" style={{ marginTop: 16, display: "inline-block", maxWidth: "calc(100vw - 32px)", overflow: "hidden" }}>
+						<a href="//github.com/OpieAce/AceGames.github.io" style={{ marginTop: 16, display: "inline-block", maxWidth: "calc(100vw - 32px)", overflow: "hidden" }}>
 							<img src={"https://github-readme-stats.vercel.app/api/pin/?username=SHSGames&repo=shsgames.github.io&theme=radical&bg_color=22272e&border_color=373e47&title_color=58a6ff&icon_color=adbac7&text_color=adbac7"} alt="" className="raised-3"/>
 						</a>
 					</Col>
