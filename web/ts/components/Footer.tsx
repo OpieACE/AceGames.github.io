@@ -33,7 +33,7 @@ export default function Component(): JSX.Element {
 					<Col xl={4}>
 						<Link to={`/${location.search}`}>
 							<div className="title">
-								<h3>{ APP_MANIFEST.name }</h3>
+								<h3>{ AceGames.name }</h3>
 							</div>
 						</Link>
 						<MoTD/>
