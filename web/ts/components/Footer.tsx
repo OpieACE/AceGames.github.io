@@ -39,15 +39,15 @@ export default function Component(): JSX.Element {
 						<MoTD/>
 						<br />
 						<ul style={{ padding: "0 2rem", marginTop: 0, lineHeight: 1.5 }}>
-							<li><a href="//github.com/SHSGames/shsgames.github.io/issues" target="_blank">Issue Tracker</a></li>
-							<li><a href="//github.com/SHSGames/shsgames.github.io/blob/master/README.md" target="_blank">About</a></li>
-							<li><a href="//github.com/SHSGames/shsgames.github.io/blob/master/LICENSE.md" target="_blank">License</a></li>
-							<li><a href="//github.com/SHSGames/shsgames.github.io/blob/master/PRIVACY.md" target="_blank">Privacy Statement</a></li>
+							<li><a href="//github.com/OpieACE/AceGames.github.io/issues" target="_blank">Issue Tracker</a></li>
+							<li><a href="//github.com/OpieACE/AceGames.github.io/blob/master/README.md" target="_blank">About</a></li>
+							<li><a href="//github.com/OpieACE/AceGames.github.io/blob/master/LICENSE.md" target="_blank">License</a></li>
+							<li><a href="//github.com/OpieACE/AceGames.github.io/blob/master/PRIVACY.md" target="_blank">Privacy Statement</a></li>
 						</ul>
 					</Col>
 					<Col xl={4}>
 						<a href="//github.com/OpieAce/AceGames.github.io" style={{ marginTop: 16, display: "inline-block", maxWidth: "calc(100vw - 32px)", overflow: "hidden" }}>
-							<img src={"https://github-readme-stats.vercel.app/api/pin/?username=SHSGames&repo=shsgames.github.io&theme=radical&bg_color=22272e&border_color=373e47&title_color=58a6ff&icon_color=adbac7&text_color=adbac7"} alt="" className="raised-3"/>
+							<img src={"https://github-readme-stats.vercel.app/api/pin/?username=OpieACE&repo=AceGames.github.io&theme=radical&bg_color=22272e&border_color=373e47&title_color=58a6ff&icon_color=adbac7&text_color=adbac7"} alt="" className="raised-3"/>
 						</a>
 					</Col>
 					<Col xl={4}>
